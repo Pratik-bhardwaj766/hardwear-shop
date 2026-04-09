@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Super Bright 12W LED Bulb",
+    "category": "Bulbs",
+    "price": 199,
+    "image": "https://images.unsplash.com/photo-1550985543-f47f38aee65e?w=500&auto=format",
+    "description": "Energy-efficient 12W LED bulb with a long lifespan and 1200 lumens of brightness.",
+    "specifications": {
+      "Wattage": "12W",
+      "Lumens": "1200",
+      "Warranty": "2 Years",
+      "Base Type": "B22"
+    }
+  },
+  {
+    "id": 2,
+    "name": "High-Speed Ceiling Fan",
+    "category": "Fans",
+    "price": 2499,
+    "image": "https://images.unsplash.com/photo-1591130901020-ef93581c62ba?w=500&auto=format",
+    "description": "Aerodynamic blades for maximum air delivery and silent operation.",
+    "specifications": {
+      "Sweep": "1200mm",
+      "RPM": "380",
+      "Blades": "3",
+      "Power": "75W"
+    }
+  },
+  {
+    "id": 3,
+    "name": "8-Module Modular Switch Board",
+    "category": "Switch Boards",
+    "price": 450,
+    "image": "https://images.unsplash.com/photo-1620067925053-bc209b0c791d?w=500&auto=format",
+    "description": "Elegant modular switch board with a glossy finish and child-safe shutters.",
+    "specifications": {
+      "Modules": "8",
+      "Color": "White",
+      "Material": "Polycarbonate",
+      "Voltage": "240V"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Copper House Wire - 90m",
+    "category": "Electric Wires",
+    "price": 1250,
+    "image": "https://images.unsplash.com/photo-1558449028-b53a39d100fc?w=500&auto=format",
+    "description": "High-conductivity copper wire with flame-retardant insulation for safety.",
+    "specifications": {
+      "Length": "90m",
+      "Gauge": "1.5 sq mm",
+      "Voltage": "1100V",
+      "Conductor": "Pure Copper"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Dimmable LED Strip Light - 5m",
+    "category": "LED Lights",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?w=500&auto=format",
+    "description": "Versatile 5m LED strip with multi-color options and remote control.",
+    "specifications": {
+      "Length": "5m",
+      "Color": "RGB",
+      "Input": "12V DC",
+      "Adhesive": "3M Tape"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Rechargeable AA Batteries (4 Pack)",
+    "category": "Batteries",
+    "price": 599,
+    "image": "https://images.unsplash.com/photo-1619315311670-070bf94d5013?w=500&auto=format",
+    "description": "High-capacity NiMH rechargeable batteries for long-lasting power.",
+    "specifications": {
+      "Capacity": "2100mAh",
+      "Type": "AA",
+      "Cycles": "Up to 1000",
+      "Voltage": "1.2V"
+    }
+  },
+  {
+    "id": 7,
+    "name": "6-Way Power Extension Board",
+    "category": "Switch Boards",
+    "price": 350,
+    "image": "https://images.unsplash.com/photo-1606502973842-f64bc2785fe5?w=500&auto=format",
+    "description": "Surge-protected power extension board with a 2m heavy-duty cord.",
+    "specifications": {
+      "Sockets": "6",
+      "Cord Length": "2m",
+      "Protection": "Surge & Overload",
+      "Current": "6A"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Industrial Exhaust Fan",
+    "category": "Fans",
+    "price": 3200,
+    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=500&auto=format",
+    "description": "Heavy-duty exhaust fan for kitchens and industrial spaces.",
+    "specifications": {
+      "Size": "12 inch",
+      "RPM": "1400",
+      "Material": "Metal",
+      "Airflow": "High"
+    }
+  }
+]
